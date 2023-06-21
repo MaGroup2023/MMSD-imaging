@@ -34,7 +34,7 @@ Perform MS re-calibration if necessary.
 
 ## 2.4 Data overview using HDImaging
 
-- Generate .txt files of the imaging data using **HDIimaging**
+- Generate .txt files of the imaging data using **HDIimaging**, place the txt imaging file in /Spatial segmentation/
 - Determine the number of rows and columns of LE and HE pixels
 - Generate .txt files of the averaged mass spectra of LE and HE data using **MassLynx**
 
